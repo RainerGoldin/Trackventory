@@ -110,6 +110,7 @@ Trackventory is a comprehensive inventory tracking system built with Laravel tha
      "name": "John Doe",
      "email": "john@example.com",
      "password": "password123",
+     "password_confirmation": "password123",
      "role_id": 1
    }
    ```
